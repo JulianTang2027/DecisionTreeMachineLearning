@@ -1,0 +1,427 @@
+Movie Title, Lead 1 Gender, Lead 2 Gender, Writer Gender, Director Gender, Lead 1 Age, Lead 2 Age, Passes Bechdel Test, MPAA Rating
+Grumpier Old Men (1995), Male, Female, Male, Male, 69, 65, No, PG-13
+Sabrina (1995),Male, Female, Male, Male, 53, 30, No, PG
+The American President (1995),Male, Female, Male, Male, 80, 66, No, PG-13
+Cutthroat Island (1995),Female, Male, Male, Male, 39, 34, No, PG-13
+Sense and Sensibility (1995),Female, Male, Female, Male, 35, 19, Yes, PG
+Leaving Las Vegas (1995),Male, Female, Male, Male, 32, 31, No, R
+Persuasion (1995),Female, Male, Male, Male, 29, 34, Yes, PG
+Wings of Courage (1995),Male, Female, Male, Male, 1960, 1961, ?, G
+Carrington (1995),Male, Female, Male, Male, 54, 29, Yes, R
+Clueless (1995),Female, Male, Female, Female, 18, 25, Yes, PG-13
+How to Make an American Quilt (1995),Female, Male, Female, Female, 26, 35, Yes, PG-13
+Pocahontas (1995),Female, Male, Male, Male, 1967, 1956, Yes, G
+When Night Is Falling (1995),Female, Female, Female, Female, 1968, 1969, Yes, R
+Il Postino (The Postman) (1994),Male, Female, Male, Male, 43, 25, No, PG
+Two if by Sea (1996), Male, Female, Male, Male, 38, 32, No, R
+French Twist (Gazon maudit) (1995),Female, Female, Female, Female, 42, 32, Yes, R
+Bed of Roses (1996),Male, Female, Male, Male, 37, 31, No, PG
+Things to Do in Denver when You're Dead (1995),Male, Female, Male, Male, 37, 34, No, R
+Angels and Insects (1995),Male, Female, Male, Male, 46, 30, No, R
+Vampire in Brooklyn (1995),Male, Female, Male, Male, 34, 37, No, R
+The Bridges of Madison County (1995),Male, Female, Male, Male, 65, 45, No, PG-13
+If Lucy Fell (1996),Male, Female, Male, Male, 35, 30, No, R
+Boomerang (1992),Male, Female, Male, Male, 31, 27, No, R
+Chungking Express (1994),Male, Female, Male, Male, 30, 24, No, PG-13
+Pie in the Sky (1995),Male, Female, Male, Male, 34, 29, No, R
+Up Close and Personal (1996),Male, Female, Male, Male, 57, 29, No, PG-13
+Rob Roy (1995), Male, Female, Male, Male, 43, 46, No, R
+Desperado (1995),Male, Female, Male, Male, 35, 29, No, R
+First Knight (1995),Male, Female, Male, Male, 40, 30, No, PG-13
+Mad Love (1995),Male, Female, Male, Male, 34, 24, No, PG-13
+Moonlight and Valentino (1995),Female, Male, Female, Female, 38, 35, Yes, R
+Something to Talk About (1995),Female, Male, Female, Male, 39, 45, No, R
+Total Eclipse (1995),Male, Male, Male, Female, 21, 33, No, R
+A Walk in the Clouds (1995),Male, Female, Male, Male, 30, 25, No, PG-13
+Before Sunrise (1995),Male, Female, Male, Male, 25, 25, Yes, R
+Circle of Friends (1995),Female, Male, Female, Male, 26, 27, Yes, R
+Don Juan DeMarco (1995),Male, Female, Male, Male, 52, 30, No, PG-13
+French Kiss (1995),Male, Female, Male, Male, 44, 29, No, PG-13
+Forget Paris (1995), Male, Female, Male, Male, 47, 40, No, PG-13
+A Goofy Movie (1995),Male, Female, Male, Male, 43, 20, Yes, G
+Heavenly Creatures (1994),Female, Female, Male, Male, 19, 18, Yes, R
+Immortal Beloved (1994),Male, Female, Male, Male, 36, 42, No, R
+I.Q. (1994),Male, Female, Male, Male, 43, 37, No, PG
+A Kid in King Arthur's Court (1995),Male, Female, Male, Male, 1980, 1975, No, PG
+Like Water for Chocolate (Como agua para chocolate) (1992),Female, Male, Female, Male, 24, 28, Yes, R
+Legends of the Fall (1994),Male, Female, Male, Male, 51, 25, No, R
+Love Affair (1994),Male, Female, Male, Male, 57, 46, No, PG-13
+Milk Money (1994),Male, Female, Male, Male, 43, 37, No, PG-13
+Nina Takes a Lover (1994),Female, Male, Female, Female, 34, 40, Yes, R
+Only You (1994),Male, Female, Male, Male, 38, 29, No, PG
+The Perez Family (1995),Male, Female, Male, Male, 45, 35, No, R
+A Pyromaniac's Love Story (1995),Male, Female, Male, Male, 1960, 1965, ?, PG
+Picture Bride (1995),Male, Female, Female, Female, 1969, 1971, Yes, PG-13
+Queen Margot (La Reine Margot) (1994),Female, Male, Male, Male, 30, 32, No, R
+While You Were Sleeping (1995),Female, Male, Female, Male, 31, 34, No, PG
+Muriel's Wedding (1994),Female, Male, Female, Male, 31, 29, Yes, R
+Corrina Corrina (1994),Female, Male, Female, Male, 32, 42, Yes, PG
+Forrest Gump (1994),Male, Female, Male, Male, 38, 28, No, PG-13
+Four Weddings and a Funeral (1994),Male, Female, Male, Male, 34, 36, No, R
+I Like It Like That (1994),Female, Male, Female, Female, 30, 32, Yes, R
+It Could Happen to You (1994),Male, Female, Male, Male, 50, 30, No, PG
+The Jungle Book (1994),Male, Female, Male, Male, 1966, 1973, No, PG
+Speed (1994),Male, Female, Male, Male, 30, 30, No, R
+Speechless (1994),Male, Female, Male, Male, 43, 34, No, PG-13
+True Lies (1994),Male, Female, Male, Male, 47, 35, No, R
+Le Colonel Chabert (1994),Male, Female, Male, Male, 45, 30, No, PG
+Barcelona (1994),Male, Female, Male, Male, 34, 30, No, PG-13
+Blue Sky (1994),Male, Female, Male, Male, 48, 36, No, PG-13
+Boxing Helena (1993),Male, Female, Male, Male, 32, 24, No, R
+Dave (1993),Male, Female, Male, Male, 47, 46, No, PG-13
+Even Cowgirls Get the Blues (1993),Female, Male, Male, Male, 43, 53, No, R
+Farewell My Concubine (1993),Male, Male, Male, Male, 36, 30, No, R
+The Favor (1994),Female, Male, Male, Male, 37, 34, No, R
+Flesh and Bone (1993),Male, Female, Male, Male, 43, 34, No, R
+The Englishman Who Went Up a Hill But Came Down a Mountain (1995),Male, Female, Male, Male, 35, 27, No, PG
+The House of the Spirits (1993),Male, Female, Male, Male, 53, 24, No, R
+The Hudsucker Proxy (1994),Male, Female, Male, Male, 39, 34, No, PG
+What Happened Was... (1994),Male, Female, Male, Male, 44, 34, No, R
+Much Ado About Nothing (1993),Male, Female, Male, Male, 53, 32, Yes, PG-13
+Mr. Jones (1993),Male, Female, Male, Male, 48, 33, No, R
+Mr. Wonderful (1993),Male, Female, Male, Male, 38, 33, No, PG-13
+The Piano (1993),Female, Male, Female, Female, 40, 48, Yes, R
+Radioland Murders (1994),Male, Female, Male, Male, 43, 39, No, PG
+Shadowlands (1993),Male, Female, Male, Male, 61, 45, No, PG
+Sleepless in Seattle (1993),Male, Female, Male, Male, 37, 32, No, PG
+So I Married an Axe Murderer (1993),Male, Female, Male, Male, 30, 31, No, PG-13
+True Romance (1993),Male, Female, Male, Male, 34, 23, No, R
+Naked in New York (1994),Male, Female, Male, Male, 34, 30, No, R
+Ghost (1990),Male, Female, Male, Male, 38, 28, No, PG-13
+Pretty Woman (1990),Male, Female, Male, Male, 40, 23, No, R
+One Fine Day (1996),Male, Female, Male, Male, 35, 37, No, PG
+Jane Eyre (1996),Female, Male, Female, Male, 26, 34, Yes, PG
+Two Much (1996),Male, Female, Male, Male, 36, 40, No, PG-13
+A Modern Affair (1995), Male, Female, Female, Male, 35, 43, No, R
+Carried Away (1996),Male, Female, Male, Male, 56, 26, No, R
+Jack and Sarah (1995),Male, Female, Male, Male, 40, 30, No, R
+Country Life (1994),Male, Female, Male, Male, 48, 34, No, PG-13
+The Promise (Das Versprechen) (1994),Female, Male, Male, Female, 1954, 1956, ?, R
+Mrs. Winterbourne (1996),Female, Male, Female, Male, 28, 42, Yes, PG-13
+Feeling Minnesota (1996),Male, Female, Male, Male, 32, 24, No, R
+The Truth About Cats & Dogs (1996),Female, Female, Female, Male, 34, 28, Yes, PG-13
+Twister (1996), Male, Female, Male, Male, 41, 33, No, PG-13
+Vermont Is For Lovers (1992),Male, Female, Male, Male, ?, ?, No, ?
+Heavy (1995),Male, Female, Male, Male, 1960, 1977, No, R
+'Til There Was You (1997),Female, Male, Female, Male, 30, 34, No, PG-13
+The Nutty Professor (1996),Male, Female, Male, Male, 35, 25, No, PG-13
+Phenomenon (1996),Male, Female, Male, Male, 42, 32, No, PG
+Walking and Talking (1996),Female, Male, Female, Female, 35, 34, Yes, R
+She's the One (1996),Male, Female, Male, Male, 32, 27, No, R
+Rendezvous in Paris (Les Rendez-vous de Paris) (1995),Male, Female, Male, Male, 45, 40, Yes, Not Rated
+The Crude Oasis (1995),Female, Male, Male, Male, 1956, ?, ?, R
+Echte Kerle (1996),Male, Male, Male, Male, 34, 30, No, Not Rated
+Emma (1996),Female, Male, Male, Male, 24, 34, Yes, PG
+Tin Cup (1996),Male, Female, Male, Male, 41, 42, No, R
+Bound (1996),Female, Female, Male, Male, 34, 36, Yes, R
+1-900 (1994),Male, Female, Male, Male, 40, 30, No, R
+Twelfth Night (1996),Male, Female, Male, Male, 36, 31, Yes, PG
+Liebelei (1933),Male, Female, Male, Male, 1905, 1909, No, Not Rated
+The Philadelphia Story (1940),Male, Female, Male, Male, 36, 33, No, Not Rated
+Singin' in the Rain (1952),Male, Female, Male, Male, 40, 30, No, G
+An American in Paris (1951),Male, Female, Male, Male, 39, 19, No, PG
+Breakfast at Tiffany's (1961),Male, Female, Male, Male, 36, 32, No, G
+The Gay Divorcee (1934),Male, Female, Male, Male, 34, 31, No, Approved
+Charade (1963),Male, Female, Male, Male, 59, 34, No, Approved
+Casablanca (1942),Male, Female, Male, Male, 42, 32, No, PG
+My Fair Lady (1964),Male, Female, Male, Male, 52, 33, No, G
+Sabrina (1954),Male, Female, Male, Male, 54, 25, No, PG
+Roman Holiday (1953),Male, Female, Male, Male, 30, 24, No, PG
+Gone with the Wind (1939),Male, Female, Male, Male, 43, 26, No, PG
+Rebecca (1940),Male, Female, Male, Male, 34, 21, No, Not Rated
+Notorious (1946),Male, Female, Male, Male, 42, 31, No, Not Rated
+Spellbound (1945),Female, Male, Male, Male, 30, 29, No, Not Rated
+An Affair to Remember (1957),Male, Female, Male, Male, 41, 34, No, Not Rated
+To Catch a Thief (1955),Male, Female, Male, Male, 52, 26, No, PG
+Ninotchka (1939),Male, Female, Male, Male, 44, 33, No, Not Rated
+Love in the Afternoon (1957),Male, Female, Male, Male, 56, 28, No, Approved
+The Ghost and Mrs. Muir (1947),Male, Female, Male, Male, 45, 34, No, Not Rated
+Top Hat (1935),Male, Female, Male, Male, 36, 26, No, Not Rated
+Penny Serenade (1941),Male, Female, Male, Male, 37, 43, No, Approved
+The African Queen (1951),Male, Female, Male, Male, 52, 35, No, PG
+Algiers (1938),Male, Female, Male, Male, 34, 28, No, Not Rated
+A Farewell to Arms (1932),Male, Female, Male, Male, 36, 28, No, Not Rated
+Madagascar Skin (1995),Male, Male, Male, Male, 1944, 1962, ?, Not Rated
+Bliss (1997),Male, Female, Male, Male, 45, 30, Yes, R
+To Gillian on Her 37th Birthday (1996),Male, Female, Male, Male, 45, 26, No, PG-13
+Beautiful Thing (1996),Male, Male, Male, Male, 23, 25, No, R
+Everyone Says I Love You (1996),Male, Female, Male, Male, 61, 26, Yes, R
+William Shakespeare's Romeo and Juliet (1996),Male, Female, Male, Male, 22, 26, No, PG-13
+Shall We Dance? (1937),Male, Female, Male, Male, 33, 29, No, Approved
+A Damsel in Distress (1937),Male, Female, Male, Male, 29, 22, No, Approved
+For the Moment (1994),Male, Female, Male, Male, 1964, 1968, ?, PG-13
+Dirty Dancing (1987),Male, Female, Male, Male, 35, 27, Yes, PG-13
+The Crying Game (1992),Male, Male, Male, Male, 30, 45, No, R
+Days of Thunder (1990),Male, Female, Male, Male, 28, 23, No, PG-13
+Top Gun (1986),Male, Female, Male, Male, 24, 29, No, PG
+Hustler White (1996),Male, Male, Male, Male, 1963, 1964, No, Not Rated
+Love in Bloom (1935),Male, Female, Male, Male, 1896, 1895, ?, Approved
+Cinema Paradiso (1988),Male, Female, Male, Male, 18, 15, No, R
+The English Patient (1996),Male, Female, Male, Male, 54, 30, No, R
+Strictly Ballroom (1992),Male, Female, Male, Male, 28, 22, No, PG
+The Princess Bride (1987),Male, Female, Male, Male, 25, 21, Yes, PG
+The (Le Grand Bleu) Big Blue (1988),Male, Female, Male, Male, 29, 24, No, R
+The Quiet Man (1952),Male, Female, Male, Male, 45, 32, No, Not Rated
+Annie Hall (1977),Male, Female, Male, Male, 41, 32, Yes, PG
+Manhattan (1979),Male, Female, Male, Male, 43, 16, No, R
+The Graduate (1967),Male, Female, Male, Male, 30, 36, No, PG
+Diva (1981),Male, Female, Male, Male, 22, 32, No, R
+Groundhog Day (1993),Male,Female, Male, Male, 42, 35, No, PG
+Cyrano de Bergerac (1990),Male, Female, Male, Male, 40, 24, No, PG
+Somewhere in Time (1980),Male, Female, Male, Male, 38, 29, No, PG
+Some Kind of Wonderful (1987),Male, Female, Male, Male, 26, 20, Yes, PG-13
+A Room with a View (1986),Male, Female, Male, Male, 28, 24, Yes, Not Rated
+When Harry Met Sally... (1989),Male, Female, Male, Male, 41, 28, Yes, R
+Parallel Sons (1995),Male, Male, Male, Male, 1972, ?, ?, ?
+Breathing Room (1996),Male, Female, Male, Male, 1967, 1968, ?, ?
+Bram Stoker's Dracula (1992),Male, Female, Male, Male, 51, 22, No, R
+The Mirror Has Two Faces (1996),Female, Male, Female, Male, 54, 54, Yes, PG-13
+Shine (1996),Male, Female, Male, Male, 44, 31, No, PG-13
+Grease (1978),Male, Female, Male, Male, 24, 29, No, PG
+Grease 2 (1982),Male, Female, Male, Male, 24, 22, No, PG
+Jerry Maguire (1996),Male, Female, Male, Male, 34, 27, No, R
+In Love and War (1996),Male, Female, Male, Male, 35, 27, No, PG-13
+The Last of the Mohicans (1992),Male, Female, Male, Male, 34, 32, No, R
+Michael (1996),Male, Female, Male, Male, 42, 38, No, PG-13
+Thieves (Les Voleurs) (1996),Male, Male, Male, Male, 45, 30, No, R
+Benny & Joon (1993),Male, Female, Male, Male, 30, 21, Yes, PG
+The Beautician and the Beast (1997),Female, Male, Female, Male, 39, 50, No, PG
+Hotel de Love (1996),Male, Female, Male, Male, 28, 25, No, R
+Fools Rush In (1997), Male, Female, Female, Male, 28, 31, No, PG-13
+Touch (1997),Male, Female, Male, Male, 48, 32, No, R
+That Old Feeling (1997),Female, Male, Female, Male, 51, 53, No, PG-13
+Booty Call (1997),Male, Female, Male, Male, 29, 25, No, R
+Kama Sutra: A Tale of Love (1996),Female, Female, Female, Female, 25, 26, Yes, R
+Love Jones (1997),Male, Female, Male, Male, 28, 27, No, R
+The Saint (1997),Male, Female, Male, Male, 37, 34, No, PG-13
+Love and Other Catastrophes (1996),Female, Female, Female, Female, 27, 25, Yes, R
+Anna Karenina (1997),Female, Male, Male, Male, 32, 53, No, R
+Inventing the Abbotts (1997),Male, Female, Male, Male, 24, 23, No, R
+Temptress Moon (Feng Yue) (1996),Male, Female, Male, Male, 32, 24, No, R
+Commandments (1997),Male, Female, Male, Male, 38, 33, No, R
+Love! Valour! Compassion! (1997),Male, Male, Male, Male, 45, 30, No, R
+Addicted to Love (1997),Male, Female, Male, Male, 38, 30, No, R
+Brassed Off (1996),Male, Female, Male, Male, 32, 30, No, R
+Trial and Error (1997),Male, Female, Male, Male, 38, 33, No, PG-13
+The Pillow Book (1995),Male, Female, Male, Male, 24, 37, No, NC-17
+Speed 2: Cruise Control (1997),Male, Female, Male, Male, 34, 29, No, PG-13
+Roseanna's Grave (For Roseanna) (1997),Male, Female, Male, Male, 57, 42, No, PG-13
+My Best Friend's Wedding (1997),Female, Male, Female, Male, 29, 27, No, PG-13
+Fall (1997),Male, Female, Male, Male, 45, 30, No, R
+Picture Perfect (1997),Female, Male, Female, Male, 29, 38, No, PG-13
+Conspiracy Theory (1997),Male, Female, Male, Male, 42, 38, No, R
+She's So Lovely (1997),Male, Female, Male, Male, 42, 32, No, R
+Excess Baggage (1997),Female, Male, Male, Male, 21, 43, No, PG-13
+The MatchMaker (1997),Female, Male, Female, Male, 36, 34, Yes, R
+A Smile Like Yours (1997),Male, Female, Male, Male, 39, 30, No, R
+Chasing Amy (1997),Male, Female, Male, Male, 27, 26, Yes, R
+Mrs. Brown (1997),Male, Female, Male, Male, 57, 32, No, PG-13
+Swept from the Sea (1997),Male, Female, Male, Male, 33, 30, No, R
+A Life Less Ordinary (1997), Male, Female, Male, Male, 26, 25, No, R
+Hugo Pool (1997),Female, Male, Male, Male, 37, 34, No, R
+The Tango Lesson (1997), Female, Male,Female, Female, 47, 37, No, PG
+Witness (1985),Male, Female, Male, Male, 43, 28, No, R
+Sliding Doors (1998),Female, Male, Male, Male, 26, 36, Yes, R
+The Wings of the Dove (1997),Female, Male, Male, Male, 32, 35, No, R
+Mrs. Dalloway (1997),Female, Female, Female, Female, 51, 34, Yes, PG-13
+Titanic (1997),Male, Female, Male, Male, 23, 22, No, PG-13
+Tomorrow Never Dies (1997),Male, Female, Male, Male, 44, 33, No, PG-13
+Afterglow (1997),Male, Female, Male, Male, 56, 56, No, R
+Great Expectations (1998),Male, Female, Male, Male, 28, 26, No, R
+The Leading Man (1996), Male, Female, Female, Male, 34, 24, No, R
+Shooting Fish (1997),Male, Female, Male, Male, 27, 22, No, PG-13
+Music From Another Room (1998),Male, Female, Male, Male, 34, 28, No, PG-13
+B. Monkey (1998),Male, Female, Male, Male, 34, 29, No, R
+The Wedding Singer (1998),Male, Female, Male, Male, 32, 23, No, PG-13
+Little City (1998),Male, Female, Male, Male, 37, 32, No, R
+The Man in the Iron Mask (1998),Male, Male, Male, Male, 23, 33, No, PG-13
+No Looking Back (1998),Male, Female, Male, Male, 35, 33, No, R
+The Object of My Affection (1998),Male, Female, Male, Male, 29, 29, Yes, R
+Chinese Box (1997),Male, Female, Male, Male, 50, 34, No, R
+City of Angels (1998),Male, Female, Male, Male, 37, 29, No, PG-13
+Kissing a Fool (1998),Male, Female, Male, Male, 31, 27, No, R
+Still Breathing (1997),Male, Female, Male, Male, 34, 32, No, R
+Woo (1998),Female, Male, Female, Male, 28, 31, No, R
+Hope Floats (1998), Female, Male, Male, Male, 34, 31, No, PG-13
+Six Days Seven Nights (1998),Male, Female, Male, Male, 56, 29, No, PG-13
+Can't Hardly Wait (1998),Male, Female, Male, Male, 25, 27, No, PG-13
+High Art (1998),Female, Female, Female, Female, 37, 30, Yes, R
+Dream for an Insomniac (1996), Female, Male, Female, Female, 31, 24, Yes, R
+Mr. Jealousy (1997),Male, Female, Male, Male, 34, 28, No, R
+Out of Sight (1998),Male, Female, Male, Male, 37, 28, No, R
+From Here to Eternity (1953),Male, Female, Male, Male, 32, 29, No, Not Rated
+Marty (1955),Male, Female, Male, Male, 38, 30, Yes, Not Rated
+West Side Story (1961),Male, Female, Male, Male, 26, 24, No, Not Rated
+Out of Africa (1985),Male, Female, Male, Male, 53, 40, No, PG
+The Mask of Zorro (1998),Male, Female, Male, Male, 58, 29, No, PG-13
+Dangerous Liaisons (1988),Male, Female, Male, Male, 49, 38, No, R
+Lolita (1997),Male, Female, Male, Male, 59, 16, No, R
+Billy's Hollywood Screen Kiss (1997),Male, Male, Male, Male, 34, 30, No, R
+A Far Off Place (1993),Male, Female, Male, Male, 16, 15, No, PG
+The Governess (1998),Female, Male, Female, Female, 32, 39, Yes, R
+The Purple Rose of Cairo (1985),Male, Female, Male, Male, 39, 30, No, PG
+Doctor Zhivago (1965),Male, Female, Male, Male, 33, 24, No, PG-13
+Splash (1984),Male, Female, Male, Male, 28, 38, No, PG
+L.A. Story (1991),Male, Female, Male, Male, 41, 30, No, PG-13
+Ever After: A Cinderella Story (1998),Male, Female, Female, Male, 32, 23, No, PG-13
+Atlantic City (1980),Male, Female, Male, Male, 67, 34, No, R
+Legend (1985),Male, Female, Male, Male, 23, 18, No, PG
+Pretty in Pink (1986), Female, Male, Male, Male, 18, 24, Yes, PG-13
+St. Elmo's Fire (1985),Male, Female, Male, Male, 23, 22, No, R
+How Stella Got Her Groove Back (1998),Female, Male, Female, Male, 41, 31, No, R
+The Chambermaid on the Titanic (1998),Male, Female, Male, Male, 45, 32, No, R
+Return to Paradise (1998),Male, Female, Male, Male, 38, 32, No, R
+Dance with Me (1998),Male, Female, Male, Male, 35, 31, No, PG
+The Lady Vanishes (1938),Male, Female, Male, Male, 34, 29, No, Approved
+Broadcast News (1987),Male, Female, Male, Male, 41, 30, Yes, R
+The Allnighter (1987),Female, Male, Female, Female, 29, 24, Yes, PG-13
+Say Anything... (1989),Male, Female, Male, Male, 22, 21, No, PG-13
+No Small Affair (1984),Male, Female, Male, Male, 21, 16, No, R
+Blame It on Rio (1984),Male, Female, Male, Male, 47, 22, No, R
+About Last Night... (1986),Male, Female, Male, Male, 36, 30, No, R
+The Butcher's Wife (1991),Male, Female, Male, Male, 45, 36, No, R
+Edward Scissorhands (1990),Male, Female, Male, Male, 27, 18, No, PG-13
+Overnight Delivery (1996),Male, Female, Male, Male, 32, 29, No, PG-13
+What Dreams May Come (1998),Male, Female, Male, Male, 47, 38, No, PG-13
+Practical Magic (1998), Female, Female, Female, Griffin Dunne, 34, 31, Yes, PG-13
+Living Out Loud (1998),Female, Male, Female, Female, 40, 54, Yes, R
+I'll Be Home For Christmas (1998),Male, Female, Male, Male, 17, 18, No, PG
+Meet Joe Black (1998),Male, Female, Male, Male, 35, 29, No, PG-13
+Desperately Seeking Susan (1985),Female, Female, Female, Female, 27, 29, Yes, PG-13
+Home Fries (1998),Female, Male, Male, Male, 28, 33, No, PG-13
+Steam: The Turkish Bath (Hamam) (1997),Male, Male, Male, Male, 34, 30, No, Not Rated
+Shakespeare in Love (1998),Male, Female, Male, Male, 38, 28, Yes, R
+The Jewel of the Nile (1985),Male, Female, Male, Male, 42, 41, No, PG
+Romancing the Stone (1984),Male, Female, Male, Male, 39, 30, No, PG
+Violets Are Blue... (1986),Male, Female, Male, Male, 40, 36, No, PG-13
+You've Got Mail (1998),Male, Female, Male, Male, 57, 38, No, PG
+The Theory of Flight (1998),Male, Female, Male, Male, 38, 33, No, R
+Playing by Heart (1998),Female, Male, Female, Male, 43, 38, Yes, R
+Peggy Sue Got Married (1986),Female, Male, Male, Male, 42, 48, No, PG-13
+Still Crazy (1998),Male, Female, Male, Male, 49, 33, No, R
+She's All That (1999), Male, Female, Male, Male, 23, 20, No, PG-13
+Simply Irresistible (1999),Female, Male, Female, Male, 31, 34, No, PG-13
+Blast from the Past (1999),Male, Female, Male, Male, 30, 24, No, PG-13
+Message in a Bottle (1999),Male, Female, Male, Male, 48, 34, No, PG-13
+Office Space (1999),Male, Female, Male, Male, 32, 30, No, R
+The Other Sister (1999),Female, Male, Female, Male, 34, 38, Yes, PG-13
+Just the Ticket (1999),Male, Female, Male, Male, 43, 33, No, R
+Telling You (1998),Male, Female, Male, Male, 27, 25, No, R
+Forces of Nature (1999),Male, Female, Male, Male, 34, 30, No, PG-13
+Among Giants (1998),Male, Female, Male, Male, 40, 30, No, R
+A Walk on the Moon (1999),Male, Female, Male, Male, 43, 32, No, R
+10 Things I Hate About You (1999),Male, Female, Male, Male, 23, 18, Yes, PG-13
+Never Been Kissed (1999),Female, Male, Female, Male, 24, 30, No, PG-13
+Friends & Lovers (1999),Male, Female, Male, Male, 29, 25, No, R
+Open Your Eyes (Abre los ojos) (1997),Male, Female, Male, Male, 24, 27, No, R
+Lost & Found (1999),Male, Female, Male, Male, 38, 30, No, PG-13
+This Is My Father (1998),Male, Female, Male, Male, 48, 32, No, R
+Xiu Xiu: The Sent-Down Girl (Tian yu) (1998),Female, Male, Female, Female, 20, 40, No, R
+Edge of Seventeen (1998),Male, Female, Male, Male, 34, 31, No, R
+The Love Letter (1999),Female, Male, Female, Male, 43, 35, No, PG-13
+The Mummy (1932),Male, Female, Male, Male, 44, 32, No, Not Rated
+Notting Hill (1999),Male, Female, Male, Male, 39, 31, No, PG-13
+Twice Upon a Yesterday (1998),Male, Female, Male, Male, 34, 29, No, R
+Run Lola Run (Lola rennt) (1998),Female, Male, Male, Male, 23, 30, No, R
+My Son the Fanatic (1998),Male, Female, Male, Male, 48, 32, No, R
+The Lovers on the Bridge (Les Amants du Pont-Neuf) (1991),Male, Female, Male, Male, 37, 26, No, R
+An (Conte d'automne) Autumn Tale (1998),Female, Male, Male, Male, 53, 46, Yes, PG
+The Velocity of Gary (1998),Male, Female, Male, Male, 39, 32, No, R
+Trick (1999),Male, Male, Male, Male, 30, 29, No, R
+Runaway Bride (1999),Male, Female, Male, Male, 50, 31, No, PG
+Better Than Chocolate (1999),Female, Female, Female, Female, 25, 24, Yes, R
+Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997),Male, Female, Male, Male, 37, 29, No, R
+Tequila Sunrise (1988),Male, Female, Male, Male, 42, 38, No, R
+Mickey Blue Eyes (1999),Male, Female, Male, Male, 39, 36, No, PG-13
+Medicine Man (1992),Male, Female, Male, Male, 62, 37, No, PG-13
+Lucie Aubrac (1997),Male, Female, Male, Male, 46, 32, No, R
+The Very Thought of You (1998),Male, Female, Male, Male, 34, 33, No, R
+Excalibur (1981),Male, Female, Male, Male, 35, 30, No, R
+Lulu on the Bridge (1998),Male, Female, Male, Male, 48, 30, No, R
+Sommersby (1993),Male, Female, Male, Male, 50, 26, No, PG-13
+Dog Park (1998),Male, Female, Male, Male, 34, 29, No, R
+Guinevere (1999),Female, Male, Female, Male, 24, 50, Yes, R
+Drive Me Crazy (1999),Female, Male, Female, Male, 23, 21, No, PG-13
+Romance (1999),Male, Female, Male, Male, 45, 32, No, Not Rated
+Random Hearts (1999),Male, Female, Male, Male, 57, 50, No, R
+Year of Living Dangerously (1982),Male, Female, Male, Male, 32, 34, No, PG
+Children of Paradise (Les enfants du paradis) (1945),Male, Female, Male, Male, 40, 30, No, Not Rated
+Brief Encounter (1946),Male, Female, Male, Male, 39, 33, No, Not Rated
+The Lady Eve (1941),Male, Female, Male, Male, 34, 32, No, Not Rated
+Flashdance (1983),Female, Male, Male, Male, 20, 35, No, R
+The Blue Lagoon (1980),Male, Female, Male, Male, 19, 18, No, R
+Fever Pitch (1997),Male, Female, Male, Male, 35, 32, No, R
+A Man and a Woman (Un Homme et une Femme) (1966),Male, Female, Male, Male, 34, 30, No, Not Rated
+Three to Tango (1999),Male, Male, Male, Male, 39, 34, No, PG-13
+Dreaming of Joseph Lees (1998),Male, Female, Male, Male, 35, 33, No, R
+The Bachelor (1999),Male, Female, Male, Male, 35, 30, No, PG-13
+Dead Again (1991),Male, Female, Male, Male, 36, 31, No, R
+The Sandpiper (1965),Male, Female, Male, Male, 50, 33, No, Not Rated
+Sleepy Hollow (1999),Male, Female, Male, Male, 36, 28, No, R
+Maurice (1987),Male, Male, Male, Male, 29, 27, No, R
+The Shop Around the Corner (1940),Male, Female, Male, Male, 37, 28, No, Not Rated
+Shampoo (1975),Male, Female, Male, Male, 38, 34, No, R
+Come See the Paradise (1990),Male, Female, Male, Male, 40, 25, No, R
+The Fisher King (1991),Male, Female, Male, Male, 48, 31, No, R
+Ride with the Devil (1999),Male, Female, Male, Male, 24, 29, No, R
+Santa Fe Trail (1940),Male, Female, Male, Male, 31, 24, No, Approved
+The Glass Bottom Boat (1966),Female, Male, Male, Male, 44, 36, No, Not Rated
+Anna and the King (1999),Male, Female, Male, Male, 41, 36, No, PG-13
+Pal Joey (1957),Male, Female, Male, Male, 43, 34, No, Approved
+Against All Odds (1984),Male, Female, Male, Male, 43, 27, No, R
+Down to You (2000), Male, Female, Male, Male, 24, 19, No, PG-13
+The Goodbye Girl (1977),Male, Female, Male, Male, 40, 30, No, PG
+The Bodyguard (1992),Male, Female, Male, Male, 37, 29, No, R
+Far and Away (1992),Male, Female, Male, Male, 30, 32, No, PG-13
+Singles (1992),Male, Female, Male, Male, 30, 27, Yes, PG-13
+Forever Young (1992),Male, Female, Male, Male, 36, 27, No, PG
+They Might Be Giants (1971),Male, Female, Male, Male, 43, 41, No, PG
+And God Created Woman (1988),Male, Female, Male, Male, 52, 22, No, R
+The Closer You Get (2000),Male, Female, Male, Male, 34, 30, No, PG-13
+East-West (Est-ouest) (1999),Male, Female, Male, Male, 49, 29, No, PG-13
+Defending Your Life (1991),Male, Female, Male, Male, 44, 34, No, PG
+The Big Country (1958),Male, Female, Male, Male, 45, 30, No, Not Rated
+Blind Date (1987),Male, Female, Male, Male, 42, 35, No, PG-13
+Love Is a Many-Splendored Thing (1955),Male, Female, Male, Male, 45, 32, No, PG
+She's Gotta Have It (1986),Male, Female, Male, Male, 28, 30, Yes, R
+Jungle Fever (1991),Male, Female, Male, Male, 29, 31, No, R
+Dying Young (1991),Female, Male, Female, Male, 24, 35, No, R
+Romeo Must Die (2000),Male, Female, Male, Male, 27, 22, No, R
+Here on Earth (2000),Male, Female, Male, Male, 22, 23, No, PG-13
+Whatever It Takes (2000),Male, Female, Male, Male, 24, 22, No, PG-13
+A Place in the Sun (1951),Male, Female, Male, Male, 30, 18, No, Passed
+Ladyhawke (1985),Male, Female, Male, Male, 38, 26, No, PG-13
+Murphy's Romance (1985),Male, Female, Male, Male, 57, 39, Yes, PG-13
+Return to Me (2000),Male, Female, Female, Female, 40, 30, Yes, PG
+Book and Candle Bell (1958),Male, Female, Male, Male, 35, 28, No, Not Rated
+Arthur (1981), Male, Female, Male, Male, 46, 35, No, PG
+The Prince of Tides (1991),Male, Female, Male, Male, 45, 43, No, R
+Keeping the Faith (2000),Male, Female, Male, Male, 34, 28, No, PG-13
+Passion of Mind (1999),Female, Male, Female, Male, 42, 40, No, PG-13
+Love and Basketball (2000),Male, Female, Female, Female, 28, 24, Yes, PG-13
+Breathless (1983),Male, Female, Male, Male, 40, 23, No, R
+The Slipper and the Rose (1976),Male, Female, Male, Male, 29, 25, No, G
+Honeymoon in Vegas (1992),Male, Female, Male, Male, 48, 29, No, PG-13
+Loser (2000),Male, Female, Male, Male, 32, 24, No, PG-13
+Moonraker (1979),Male, Female, Male, Male, 51, 33, No, PG
+Romeo and Juliet (1968),Male, Female, Male, Male, 17, 16, No, PG
+The Fabulous Baker Boys (1989),Male, Female, Male, Male, 38, 32, No, R
+Prizzi's Honor (1985),Male, Female, Male, Male, 48, 29, No, R
+Starman (1984),Male, Female, Male, Male, 38, 34, No, PG
+Bird on a Wire (1990),Male, Female, Male, Male, 39, 34, No, PG-13
+Love's Labour's Lost (2000),Male, Female, Male, Male, 39, 30, No, PG
+Trouble in Paradise (1932),Male, Female, Male, Male, 37, 33, No, Not Rated
+Boys and Girls (2000),Male, Female, Male, Male, 28, 24, No, PG-13
+The Hot Spot (1990),Male, Female, Male, Male, 40, 29, No, R
+The Wisdom of Crocodiles (a.k.a. Immortality) (2000),Male, Female, Male, Male, 28, 35, No, R
+Criminal Lovers (Les Amants Criminels) (1999),Male, Female, Male, Male, 26, 24, No, Not Rated
+The Girl on the Bridge (La Fille sur le Pont) (1999),Male, Female, Male, Male, 45, 27, No, R
+Autumn in New York (2000),Male, Female, Male, Male, 48, 23, No, PG-13
+Mad About Mambo (2000),Male, Female, Male, Male, 30, 24, No, PG-13
+Bronco Billy (1980),Male, Female, Male, Male, 50, 39, No, PG
+An Affair of Love (Une Liaison Pornographique) (1999),Male, Female, Male, Male, 47, 34, No, R
+A Couch in New York (1996),Male, Female, Male, Male, 43, 29, No, R
+Love & Sex (2000),Female, Male, Female, Male, 35, 32, Yes, R
+Skipped Parts (2000),Male, Female, Male, Male, 31, 30, No, R
+Woman on Top (2000),Female, Male, Female, Female, 33, 34, Yes, R
+

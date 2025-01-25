@@ -1,7 +1,3 @@
-Here’s a draft for your README file based on your project details:
-
----
-
 # Romance Movie Ratings Analysis
 
 ## **Overview**
